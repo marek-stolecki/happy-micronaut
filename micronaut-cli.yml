@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: happy.micronaut
+---
+testFramework: junit
+sourceLanguage: java
